@@ -15,6 +15,7 @@ People frequently share their problems, frustrations, and unmet needs in online 
 
 The platform aims to bridge the gap between real-world problems and entrepreneurial innovation through data-driven analysis.
 <img width="1897" height="1020" alt="image" src="https://github.com/user-attachments/assets/b6cd3a9c-1426-4c59-960f-4e2ab326f1c1" />
+<img width="600" height="247" alt="Screenshot 2026-10-10 190918" src="https://github.com/user-attachments/assets/8019b0f2-8634-48d3-b99a-fdb26d901c12" />
 
 
 ## ✨ Key Features
