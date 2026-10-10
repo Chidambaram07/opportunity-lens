@@ -15,12 +15,19 @@ People frequently share their problems, frustrations, and unmet needs in online 
 
 The platform aims to bridge the gap between real-world problems and entrepreneurial innovation through data-driven analysis.
 <img width="1897" height="1020" alt="image" src="https://github.com/user-attachments/assets/b6cd3a9c-1426-4c59-960f-4e2ab326f1c1" />
+
 <img width="1890" height="1021" alt="Screenshot 2026-10-10 190414" src="https://github.com/user-attachments/assets/28aa6ab1-abf5-4488-b5fb-3f23ba780134" />
+
 <img width="1892" height="1012" alt="Screenshot 2026-10-10 190429" src="https://github.com/user-attachments/assets/073b552e-5ca1-4d3e-8df0-d1b20d853b27" />
+
 <img width="1895" height="1017" alt="Screenshot 2026-10-10 190445" src="https://github.com/user-attachments/assets/eba4fd0d-37a3-4fd8-acac-9545f1d0e2e4" />
+
 <img width="1897" height="1013" alt="Screenshot 2026-10-10 190501" src="https://github.com/user-attachments/assets/4e094df1-170a-4c83-ac40-7d0b86e14c28" />
+
 <img width="1898" height="1017" alt="Screenshot 2026-10-10 190520" src="https://github.com/user-attachments/assets/d13b0d64-5bca-4e87-a463-115928b5cc1c" />
+
 <img width="1893" height="1011" alt="Screenshot 2026-10-10 190540" src="https://github.com/user-attachments/assets/89b4d5fc-d0b2-4a91-910c-72cf50deaf58" />
+
 <img width="1900" height="1021" alt="Screenshot 2026-10-10 190555" src="https://github.com/user-attachments/assets/b00453ca-8f69-45d7-973b-135a3ac73213" />
 
 
