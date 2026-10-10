@@ -14,6 +14,8 @@ Opportunity Lens is an AI-powered platform designed to identify potential startu
 People frequently share their problems, frustrations, and unmet needs in online communities. Opportunity Lens applies Natural Language Processing (NLP), sentiment analysis, and topic clustering techniques to uncover recurring pain points and help transform them into potential business opportunities.
 
 The platform aims to bridge the gap between real-world problems and entrepreneurial innovation through data-driven analysis.
+<img width="1897" height="1020" alt="image" src="https://github.com/user-attachments/assets/b6cd3a9c-1426-4c59-960f-4e2ab326f1c1" />
+
 
 ## ✨ Key Features
 
