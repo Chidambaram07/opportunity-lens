@@ -22,7 +22,7 @@ The platform aims to bridge the gap between real-world problems and entrepreneur
 <img width="1898" height="1017" alt="Screenshot 2026-10-10 190520" src="https://github.com/user-attachments/assets/d13b0d64-5bca-4e87-a463-115928b5cc1c" />
 <img width="1893" height="1011" alt="Screenshot 2026-10-10 190540" src="https://github.com/user-attachments/assets/89b4d5fc-d0b2-4a91-910c-72cf50deaf58" />
 <img width="1900" height="1021" alt="Screenshot 2026-10-10 190555" src="https://github.com/user-attachments/assets/b00453ca-8f69-45d7-973b-135a3ac73213" />
-<img width="600" height="247" alt="Screenshot 2026-10-10 190918" src="https://github.com/user-attachments/assets/97220da6-edbf-4f1d-b09f-f452965ef541" />
+
 
 ## ✨ Key Features
 
